@@ -9,5 +9,6 @@
     - Android Studio -> Preferences -> Languages & Frameworks -> Kotlin
     - `Update channel`에 `Early Access Preview` 설정
 
-ref. https://nomisrev.github.io/context-receivers/
-ref. https://blog.jetbrains.com/kotlin/2022/02/kotlin-1-6-20-m1-released/
+## 참고 URL
+- https://nomisrev.github.io/context-receivers/
+- https://blog.jetbrains.com/kotlin/2022/02/kotlin-1-6-20-m1-released/
